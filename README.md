@@ -1,6 +1,7 @@
 # NPY IMG VIS
 
 [![Build Status](https://travis-ci.org/sarlam/npy-npy-img-vis.svg?style=flat-square&branch=master)](https://travis-ci.org/sarlam/npy-img-vis)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsarlam%2Fnpy-img-vis.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsarlam%2Fnpy-img-vis?ref=badge_shield)
 
 > Polymer web-app to display 512*512 grey-scales images from an npy file.
 
@@ -75,3 +76,6 @@ We are getting the `webpcomponents-loader.js` polyfill from GitHub using NPM/Yar
 ## License
 
 PolymerX © MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsarlam%2Fnpy-img-vis.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsarlam%2Fnpy-img-vis?ref=badge_large)
