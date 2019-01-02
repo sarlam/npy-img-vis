@@ -66,6 +66,8 @@ const copyStatics = {
 
 /**
  * Plugin configuration
+ *
+ * @return {Array} Webpack HTML Plugins.
  */
 const renderHtmlPlugins = () =>
   [
