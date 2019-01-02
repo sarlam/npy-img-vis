@@ -3,8 +3,8 @@ import {PolymerElement, html} from '@polymer/polymer/polymer-element';
 
 import css from './style.pcss';
 import template from './template.html';
-import '../../dumbs/nl-slider/index';
-import '../../dumbs/nl-visualizer/index';
+import '../../dumbs/nl-slider';
+import '../../dumbs/nl-visualizer';
 
 export default class NlApp extends PolymerElement {
   static get properties() {
@@ -28,7 +28,7 @@ export default class NlApp extends PolymerElement {
   }
 
   startTour() {
-    this.name = "BOUUUUUUUUUU";
+    this.name = 'BOUUUUUUUUUU';
   }
 }
 
